@@ -1,2 +1,5 @@
 // meu primeiro programa
-console.log ("oi todos")
+const nome = "Osmar"
+const sobrenome = "Santos"
+const nome completo = nome + sobrenome
+console.log ("nome completo")
